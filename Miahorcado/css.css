@@ -11,3 +11,24 @@ button {
     background-color: rgb(218, 111, 72);
     color: white;
 }
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+    rotate:calc(46);
+    position: relative;
+    top: -30px;
+    rotate:var(45);
+}
+
+h3 {
+    text-align: center;
+    font-size: 70px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 70px;
+    position: relative;
+    top: -30px;
+}
